@@ -1,16 +1,30 @@
-# medical_website_By_Bootstrap
+# Medical Website (Bootstrap)
 
-## Project Overview
-This project is a **responsive medical website** designed with **Bootstrap**.  
-It aims to provide a modern platform for showcasing medical services with a user-friendly and attractive interface across all devices.
+##  Overview
+A modern, responsive medical services website built using Bootstrap, HTML5, and CSS3. It features a sleek and mobile-friendly layout with key sections like About Us, Services, Gallery, and Testimonials.
 
-## Features
-- Fully **responsive design** (works on all screen sizes)  
-- Clear sections such as: **About Us, Services, Gallery, and Testimonials**  
-- **Contact/Inquiry form** for users  
-- Built with **HTML5, CSS3, and Bootstrap** for a clean and customizable layout  
+---
 
-## Technologies Used
-- **Bootstrap** (e.g., Bootstrap 5) – for responsive design and UI components  
-- **HTML5** – for content structure  
-- **CSS3** – for styling and customization
+##  Features
+- Fully responsive design that adapts to any screen size.
+- Structured layout with clear sections:
+  - **About Us**
+  - **Services**
+  - **Gallery**
+  - **Testimonials**
+- Interactive **Contact / Inquiry Form** for user engagement.
+- Built with clean and customizable code via Bootstrap components.
+
+---
+
+##  Technologies Used
+- **Bootstrap** (e.g., version 5) for layout and UI components  
+- **HTML5** for semantic content structure  
+- **CSS3** for styling and customization  
+
+---
+
+##  How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Abdullah-Qasim-IT/medical_website_By_Bootstrap.git
